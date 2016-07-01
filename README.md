@@ -3,13 +3,13 @@ Time is money. Save both
 
 To run:
 
-```# Install node and bower
+# Install node and bower
 brew install node
-npm install -g bower```
+npm install -g bower
 
-```# download dependencies and run
+# download dependencies and run
 npm install
 cd public
-bower install```
+bower install
 
 Or, run using `./run.sh`
